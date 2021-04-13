@@ -1,0 +1,12 @@
+there are countries that missing codess:
+    Yemen           Yemen, Rep.         ye
+    vietnam         Vietnam             vn
+    Venezuela       Venezuela, RB       ve
+    Tanzania                            tz
+    Libya                               ly
+    Korea           Korea, Dem. Rep.    kp
+    Korea           Korea, Rep.         kr
+    Egypt           Egypt, Arab Rep.    eg
+    Hong Kong       Hong Kong SAR, China hk
+    Iran            Iran, Islamic Rep.  ir
+              

@@ -1,0 +1,10 @@
+18/09/2019 
+That's not a problem. I realize something in mermi.py and gemi.py folder
+
+there are difference them in terms of drawing shape on the screen. on 'mermi.py' folder to draw 
+shape we need 'draw.rect fuctions'. when we look at 'gemi.py' folder to draw imgae we need to 'blit' method.
+FOR ME this difference happen the result of we choiced image or occuring rect object. while,if you create rectangular 
+you need to draw rect. for image that you loaded you need to blit method. 
+??????19/09/2019
+HOWEVER we use on 'blit method' and 'fill function' on 'buton.py' why we didn't use 'pygame.draw.rect' funtions?
+for details please look at line 32 in buton.py

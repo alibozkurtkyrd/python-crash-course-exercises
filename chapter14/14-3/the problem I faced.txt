@@ -1,0 +1,5 @@
+26/09/2019
+
+fonkisyonlar.py line 110 I find basic solution and it works by using empty() method but there is a
+another problem that when I sent more than 1 bullet after first collision naturally all of bullet are erased but
+I want bullets coming from first bullet not erased. 
