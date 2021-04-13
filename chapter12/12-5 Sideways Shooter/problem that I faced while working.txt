@@ -1,0 +1,22 @@
+30/08/2019
+book page is 260 and file name is oyun_fonksiyonlarý.py line 55 
+the code I wrote was 'mermiler.güncelle()' güncelle() function in mermiler.py
+when I work this code error message said 'Group' object has no attribute 'güncelle'
+but in orginal file game_functions.py this code works properly. on the other said 
+in page 260: "When you call update() on a group 2nd line, the group **automatically** calls
+update() for each sprite in the group. **The line bullets.update() calls
+bullet.update() for each bullet we place in the group bullets.**"
+
+I solved this problme by add code that 'mermi.güncelle()' oyun_fonksiyonlar.py at line 59 in 
+for loop the problem is solved but I don't understand main idea(about automatically calls) while
+first code is not worked
+
+# problem 2
+
+mermi.py line 10 "super().__init__(ui_ayarlar, ekran, gemi)" this is syntax of pyton 3
+but this code is not working. error masage said when I tried this "add() argument after * must be
+ an iterable, not Ayarlar"
+same mistake occur when I change bullet.py like that "super().__init__(ai_settings, screen, ship)"
+error mesaage is similar only different part rather 'not Ayarlar' is 'not Settings' 
+
+   

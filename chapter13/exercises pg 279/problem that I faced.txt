@@ -1,0 +1,12 @@
+05/09/2019
+look at fonksiyonlar.py folder in which evaulate the line 38 and line 40 question is about x and y coordinate of 
+raindrop.
+please attention look at line 31 at raindrop.py the code: "self.rect.y = self.y" maybe you think
+this code is exist here rather than fonksiyonlar.py. This ÝDEA is false because .....
+
+06/09/2019
+
+I do not figure out the problem 13-4 I got stuck. 
+
+10/09/2019
+# I figure out 13-4 problem after I made problem 13-5. please look at my design folder here I changed a little bit shape.

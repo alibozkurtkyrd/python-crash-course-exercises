@@ -1,0 +1,11 @@
+18/08/2019
+
+I got stuck 12-3 rocket problem is that my rocket moves on y direction but
+it diseappered while moving on y direction. For detail please look at line 48 at
+pozisyon.py folder
+
+# I SOLVED problem (29/08/2019)
+you should now key thing that x cordinate is increase from left to right and y coordinate is
+increase from top to bottom when you know this key point you can occur condition that I occured 
+line 47 and 49
+ 
